@@ -1,5 +1,5 @@
-const getLinkVips = require('./lib/Getter')
+const getLinksVip = require('./lib/Getter')
 
 module.exports = {
-    getLinkVips
+    getLinksVip
 }
