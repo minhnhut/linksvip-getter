@@ -1,6 +1,6 @@
 {
   "name": "linksvip-getter",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Authenticate and get direct link from linksvip",
   "main": "index.js",
   "scripts": {
